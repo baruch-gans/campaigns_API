@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Campaign 1",
+    "startDate": "2022-01-01",
+    "bid": 1.0,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 2,
+    "name": "Campaign 2",
+    "startDate": "2022-02-01",
+    "bid": 2.0,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 3,
+    "name": "My Campaign",
+    "startDate": "2022-02-14",
+    "bid": 0.05,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 4,
+    "name": "My Campaign",
+    "startDate": "2022-02-14",
+    "bid": 0.05,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 5,
+    "name": "My Campaign",
+    "startDate": "2022-02-14",
+    "bid": 0.05,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 6,
+    "name": "My Campaign",
+    "startDate": "2022-02-14",
+    "bid": 0.05,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 7,
+    "name": "My Campaign",
+    "startDate": "2022-02-14",
+    "bid": 0.05,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 8,
+    "name": "My Campaign",
+    "startDate": "2022-02-14",
+    "bid": 0.05,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  },
+  {
+    "id": 9,
+    "name": "My Campaign222",
+    "startDate": "2020-02-14",
+    "bid": 0.12,
+    "status": "Pending",
+    "views": 0,
+    "clicks": 0,
+    "installs": 0
+  }
+]
